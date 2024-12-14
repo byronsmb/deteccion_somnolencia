@@ -1,3 +1,3 @@
 # deteccion_somnolencia
  Script de python para detectar somnolencia
-![Captura de pantalla 2024-12-13 142728](https://github.com/user-attachments/assets/6b6cd9d6-8800-4afa-8cfc-7f2531bad485)
+![Captura de pantalla 2024-12-13 142747](https://github.com/user-attachments/assets/ebf197a3-2c4e-4944-82c2-a5a19783dfa8)
